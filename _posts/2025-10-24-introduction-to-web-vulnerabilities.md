@@ -5,7 +5,7 @@ categories: [cybersecurity, web]
 tags: [xss, sql-injection, crsf]
 ---
 
-Web vulnerabilities are a common entry for attackers, in this post, we will explore **SQL injection** and **XSS* --two of the OWASP top 10.
+Web vulnerabilities are a common entry for attackers, in this post, we will explore **SQL injection** and **XSS** --two of the OWASP top 10.
 
 ## SQL Injections
 This occurs when unsanitized input is added to the queries.
