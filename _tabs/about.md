@@ -1,8 +1,12 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I am Milly Munala, a Security Analyst enthusiast.
+- Skilled in monitoring security systems
+- Identifying vulnerabilities
+- Respond to security systems
+- Implement security control
+- Create security policies
